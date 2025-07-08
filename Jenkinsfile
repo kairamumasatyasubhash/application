@@ -1,4 +1,4 @@
-@library("com.subhash.shared-lib") _
+@Lbrary("com.subhash.shared-lib") _
 firstpipeline(
 appName: 'botique-cart'
 )
