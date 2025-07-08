@@ -1,4 +1,4 @@
 @Library("com.subhash.shared-lib") _
 firstpipeline(
-appName: 'botique-cart'
+USER_NAME: 'botique-cart'
 )
